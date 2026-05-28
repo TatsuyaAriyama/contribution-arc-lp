@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Contribution Arc">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fafaf8"/>
+      <stop offset="1" stop-color="#ecf2eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- logo -->
+  <g transform="translate(80 96)">
+    <rect width="56" height="56" rx="12" fill="#3a5a40"/>
+    <g transform="translate(28 28)" fill="none" stroke="#ffffff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-16 8 A20 20 0 0 1 16 8"/>
+      <circle cx="0" cy="8" r="2.8" fill="#ffffff" stroke="none"/>
+    </g>
+  </g>
+  <text x="156" y="138" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" font-weight="600" fill="#1a1a1a">Contribution Arc</text>
+
+  <!-- title -->
+  <text x="80" y="320" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="76" font-weight="700" fill="#1a1a1a" letter-spacing="-1.5">学習が続くを設計する</text>
+  <text x="80" y="392" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="26" font-weight="400" fill="#6b6b6b">エンジニアの学習・貢献を、静かに積み上げる。</text>
+
+  <!-- decorative contribution cells -->
+  <g transform="translate(80 470)">
+    <g fill="#8db090">
+      <rect x="0" y="0" width="20" height="20" rx="4"/>
+      <rect x="28" y="0" width="20" height="20" rx="4"/>
+      <rect x="84" y="0" width="20" height="20" rx="4"/>
+      <rect x="140" y="0" width="20" height="20" rx="4"/>
+      <rect x="196" y="0" width="20" height="20" rx="4"/>
+      <rect x="252" y="0" width="20" height="20" rx="4"/>
+    </g>
+    <g fill="#5a8061">
+      <rect x="56" y="0" width="20" height="20" rx="4"/>
+      <rect x="168" y="0" width="20" height="20" rx="4"/>
+      <rect x="224" y="0" width="20" height="20" rx="4"/>
+    </g>
+    <g fill="#3a5a40">
+      <rect x="112" y="0" width="20" height="20" rx="4"/>
+      <rect x="280" y="0" width="20" height="20" rx="4"/>
+    </g>
+  </g>
+
+  <text x="80" y="556" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="500" fill="#3a5a40">contribution-arc.example.com</text>
+</svg>
