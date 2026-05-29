@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://contribution-arc.app
+Sitemap: https://contribution-arc.app/sitemap.xml
