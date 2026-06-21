@@ -7,12 +7,13 @@
   </defs>
   <rect width="1200" height="630" fill="url(#bg)"/>
 
-  <!-- logo -->
+  <!-- logo: stacked diamonds, matching the app icon -->
   <g transform="translate(80 96)">
-    <rect width="56" height="56" rx="12" fill="#3a5a40"/>
-    <g transform="translate(28 28)" fill="none" stroke="#ffffff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M-16 8 A20 20 0 0 1 16 8"/>
-      <circle cx="0" cy="8" r="2.8" fill="#ffffff" stroke="none"/>
+    <rect width="56" height="56" rx="12" fill="#faf6ee" stroke="#e6e1d4" stroke-width="1"/>
+    <g transform="translate(28 31)">
+      <polygon points="0,7 -11,2 0,-3 11,2" fill="#1f4c2b"/>
+      <polygon points="0,2 -11,-3 0,-8 11,-3" fill="#5ba968"/>
+      <polygon points="0,-3 -11,-8 0,-13 11,-8" fill="#9ed7a0"/>
     </g>
   </g>
   <text x="156" y="138" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" font-weight="600" fill="#1a1a1a">Contribution Arc</text>
@@ -42,5 +43,5 @@
     </g>
   </g>
 
-  <text x="80" y="556" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="500" fill="#3a5a40">contribution-arc.example.com</text>
+  <text x="80" y="556" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="500" fill="#3a5a40">contribution-arc.app</text>
 </svg>

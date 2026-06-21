@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="Contribution Arc">
+  <rect width="1024" height="1024" rx="180" ry="180" fill="#faf6ee"/>
+  <g transform="translate(512 560)">
+    <polygon points="0,128 -200,40 0,-48 200,40" fill="#1f4c2b"/>
+    <polygon points="0,40 -200,-48 0,-136 200,-48" fill="#5ba968"/>
+    <polygon points="0,-48 -200,-136 0,-224 200,-136" fill="#9ed7a0"/>
+  </g>
+</svg>
